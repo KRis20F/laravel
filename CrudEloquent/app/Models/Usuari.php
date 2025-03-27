@@ -11,4 +11,6 @@ class Usuari extends Model
         'email',
         'edat'
     ];
+
+    //wdwdwad
 }
